@@ -1,0 +1,16 @@
+						CODE COVERAGE
+
+WHAT  & WHY ?
+	-> When a Development Project is put together, Testers need to verify the Development for bugs,
+		errors, performance ..etc before it can be made PRODUCTION READY.
+
+	-> For Testing the project TESTERS create a series of TEST CASES for the Development to pass 
+		through successfully before it can be put into PRODUCTION.
+
+	-> Code Coverage is the property of TEST CASES to verify percentage of lines of a program executed
+		using those test cases.
+
+	-> The more lines Tests cover, Better the Test Cases, Higher the Code Coverage.
+
+	-> No matter what the Development Software/Program/Kit, every one has their own tools for Testing
+		the Product, before they can deploy into Production.
