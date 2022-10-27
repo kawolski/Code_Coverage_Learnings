@@ -20,5 +20,9 @@ steps:
   displayName: 'npm install'
 
 - script: |
+    npm install jest
+  displayName: 'install jest'
+
+- script: |
     npm test
   displayName: 'npm test' 
