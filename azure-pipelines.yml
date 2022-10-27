@@ -21,6 +21,7 @@ steps:
 
 - script: |
     npm install jest
+    npm i -D jest-junit
   displayName: 'install jest'
 
 - script: |
