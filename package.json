@@ -4,7 +4,7 @@
   "description": "",
   "main": "cloneArray.js",
   "scripts": {
-    "test": "jest --transformIgnorePatterns \"node_modules/(?!@toolz/allow)/\" --coverage"
+    "test": "jest --ci"
   },
   "keywords": [],
   "author": "",
