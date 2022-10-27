@@ -20,6 +20,7 @@ steps:
   displayName: 'npm install'
 
 - script: |
+    npm cache clean --force
     npm install jest
     npm i -D jest-junit
   displayName: 'install jest'
